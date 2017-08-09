@@ -6,3 +6,17 @@ ul {
 div.articleContainer * {
 	margin-left: 10px;
 }
+
+
+.box {
+	display: flex;
+	align-item: center;
+	height: 200px;
+	width: 600px;
+	border-color: red;
+	border-radius: 50%;
+	background-color: #d30;
+}
+footer {
+	background-color: #d30;
+}

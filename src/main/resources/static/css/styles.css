@@ -2,3 +2,7 @@ ul {
 	list-style-type: none;
 	margin-left: 15px;
 }
+
+div.articleContainer * {
+	margin-left: 10px;
+}
